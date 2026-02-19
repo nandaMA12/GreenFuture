@@ -1,0 +1,7 @@
+{
+  "name": "GreenFutureClass",
+  "description": "A smart learning platform for sustainable digital skills featuring AI-powered course assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
